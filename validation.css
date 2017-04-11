@@ -1,0 +1,11 @@
+body {
+	background-color: #fff5ee;
+}
+
+input:valid {
+	background-color: green;
+}
+
+input:invalid {
+	background-color: red;
+}
